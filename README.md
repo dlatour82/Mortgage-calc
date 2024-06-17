@@ -17,7 +17,7 @@ Simple calculator for a fixed rate mortgage.
 4. Click on the "Calculate" button to see the monthly payment.
 
 # Live Demo
-(https://codesandbox.io/p/sandbox/mortgage-calc-588z72?file=%2Findex.html%3A43%2C30)
+(https://588z72.csb.app/)
 
 
 # Author
